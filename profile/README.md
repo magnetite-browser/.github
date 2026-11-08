@@ -18,7 +18,8 @@ code, assets or branding, and no affiliation with The Browser Company.
 
 | Repository | What |
 | --- | --- |
-| [magnetite](https://github.com/magnetite-browser/magnetite) | The browser and the `magnetite-sync` server |
+| [magnetite](https://github.com/magnetite-browser/magnetite) | The browser |
+| [magnetite-sync](https://github.com/magnetite-browser/magnetite-sync) | The sync server you can host yourself (container image and Helm chart) and the sync protocol |
 | [magnetite-website](https://github.com/magnetite-browser/magnetite-website) | Source of [magnetitebrowser.org](https://magnetitebrowser.org) |
 | [homebrew-magnetite](https://github.com/magnetite-browser/homebrew-magnetite) | Homebrew tap |
 
