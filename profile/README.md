@@ -22,10 +22,15 @@ branding.
 | [magnetite](https://github.com/magnetite-browser/magnetite) | The browser |
 | [magnetite-sync](https://github.com/magnetite-browser/magnetite-sync) | The sync server you can host yourself (container image and Helm chart) and the sync protocol |
 | [magnetite-cef](https://github.com/magnetite-browser/magnetite-cef) | The build of the Chromium Embedded Framework the browser ships: the official one plus the H.264, AAC and HEVC decoders, and Magnetite's patches |
+| [cef-rs](https://github.com/magnetite-browser/cef-rs) | Magnetite's fork of the Rust bindings for CEF, so the browser can move to a new CEF version without waiting for upstream |
+| [magnetite-ios](https://github.com/magnetite-browser/magnetite-ios) | The iPhone and iPad app: browses with the spaces, favorites and pinned tabs of your sync chain (in development, no release yet) |
+| [magnetite-android](https://github.com/magnetite-browser/magnetite-android) | The Android phone and tablet app, with the same features (in development, no release yet) |
+| [magnetite-mobile-core](https://github.com/magnetite-browser/magnetite-mobile-core) | The Rust core both mobile apps share: joins a sync chain and reads its sidebar |
 | [magnetite-website](https://github.com/magnetite-browser/magnetite-website) | Source of [magnetitebrowser.org](https://magnetitebrowser.org) |
 | [homebrew-magnetite](https://github.com/magnetite-browser/homebrew-magnetite) | Homebrew tap |
 
-Everything is licensed under the EUPL-1.2. Contributions, ideas and bug
+Everything is licensed under the EUPL-1.2, except cef-rs, which keeps its
+upstream's licence (Apache-2.0 or MIT). Contributions, ideas and bug
 reports are welcome in the repository they concern; see
 [SUPPORT.md](https://github.com/magnetite-browser/.github/blob/main/SUPPORT.md)
 and, for vulnerabilities,
