@@ -8,4 +8,5 @@ Organisation-wide files for [magnetite-browser](https://github.com/magnetite-bro
 
 The browser repository carries its own `SECURITY.md` and `CODE_OF_CONDUCT.md`,
 which win over the defaults here; keep them in sync when the policy changes.
-The other repositories use the defaults.
+`cef-rs` is a fork and still carries its upstream's copies. The other
+repositories use the defaults.

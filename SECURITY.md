@@ -16,8 +16,9 @@ reasonable time to fix the issue before you disclose it.
 
 ## Scope
 
-In scope is Magnetite's own code: the browser, the `magnetite-sync` server and
-its protocol, the importers and the website.
+In scope is Magnetite's own code: the browser, the iOS and Android apps and
+their shared core, the `magnetite-sync` server and its protocol, the importers
+and the website.
 
 Chromium and CEF bugs belong upstream
 ([Chromium](https://issues.chromium.org),
