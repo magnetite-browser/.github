@@ -10,11 +10,6 @@ Privacy is a design rule, not a setting. No telemetry, no mandatory account, no
 cloud you did not choose. Sync between your devices is optional and end-to-end
 encrypted, through Magnetite's free server or one you host yourself.
 
-Magnetite started as a new home for the workflow of the Arc browser and has
-grown into a product of its own. It is an independent clean-room project: not
-affiliated with The Browser Company, and without any of its code, assets or
-branding.
-
 ## Repositories
 
 | Repository | What |
